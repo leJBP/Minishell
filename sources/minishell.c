@@ -1,6 +1,6 @@
 /**
  * @file minishell.c
- * @author Jean-Baptiste Prevost
+ * @author leJBP
  * @brief Minishell
  * @version 1.0
  * @date 2022-05-23
