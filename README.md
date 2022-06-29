@@ -15,7 +15,7 @@ To execute the programm use the following command :
 
     ./minishell
     
-### Feature
+### Features
 
 To quit the programm there is two way :
 - write `exit`
@@ -28,3 +28,7 @@ Intern command :
 - background job `bg index`, starts up again the specify job with the index
 - foreground job `fg index`, job from background go to foreground
 - suspension `susp`, pause the minishell
+
+Signal : 
+- `Ctrl + Z`, send to background the foreground job
+- `Ctrl + C`, stop the foreground job
